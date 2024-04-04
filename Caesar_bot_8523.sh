@@ -97,7 +97,7 @@ case "$1" in
         str=": Con l'aiuto degli script che ti ho lasciato "
         print_animated "$str" "$WHITE"
         print_animated "(hex.py, cifratura.sh e decifratura.sh) " "$YELLOW"
-        str="dovrai mettere insieme e decifrare i due pezzi di parola che hai."
+        str="dovrai mettere insieme e decifrare le due parti di parola che hai."
         print_animated "$str" "$WHITE"
 
         echo
